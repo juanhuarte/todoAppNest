@@ -29,9 +29,9 @@ To make this application, I use differents technologies:
 
 # How it's work?
 
-The back-end is deployed with Heroku in the following link: https://todoapplicationn.herokuapp.com
+The back-end is deployed with Heroku in the following link: https://todoappnest.herokuapp.com
 
-And the front-end is deployed with vercel in the following link: https://todo-app-juanhuarte.vercel.app
+And the front-end is deployed with vercel in the following link: https://todo-app-nest-juanhuarte.vercel.app
 
 Once you access to the second link you will see the login page 
 
