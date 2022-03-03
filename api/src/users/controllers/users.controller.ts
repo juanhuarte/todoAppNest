@@ -17,9 +17,6 @@ export class UsersController {
 
   @Get()
   getUser(@Query() filterQuery) {
-    // console.log('query', filterQuery);
-    // const { mail, password } = filterQuery;
-    // let body = { mail: mail, password: password };
     return this.userService.findOne(filterQuery);
   }
 
