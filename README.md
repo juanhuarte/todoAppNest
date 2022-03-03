@@ -20,18 +20,17 @@ To make this application, I use differents technologies:
 
 • Node js v16.13.0
 
-• Express ^4.17.1
+• Nest js
 
 • PostgreSQL v14.1
 
-• Sequelize ^6.3.5
 
 
 # How it's work?
 
-The back-end is deployed with Heroku in the following link: https://todoapplicationn.herokuapp.com
+The back-end is deployed with Heroku in the following link: https://todoappnest.herokuapp.com
 
-And the front-end is deployed with vercel in the following link: https://todo-app-juanhuarte.vercel.app
+And the front-end is deployed with vercel in the following link: https://todo-app-nest-juanhuarte.vercel.app
 
 Once you access to the second link you will see the login page 
 
