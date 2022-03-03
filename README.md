@@ -20,11 +20,10 @@ To make this application, I use differents technologies:
 
 • Node js v16.13.0
 
-• Express ^4.17.1
+• Nest js
 
 • PostgreSQL v14.1
 
-• Sequelize ^6.3.5
 
 
 # How it's work?
